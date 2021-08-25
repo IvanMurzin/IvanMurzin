@@ -13,7 +13,7 @@
 </p>
 
 
-<img src="https://media1.giphy.com/media/cAWZev5IHRGJHbD9PN/giphy.gif" width="50"> A little more about me...  
+<h3> <img src="https://media1.giphy.com/media/cAWZev5IHRGJHbD9PN/giphy.gif" width="50">A little more about me...</h3>  
 
 ```c++
 struct Ivan : Man, Student, Developer {
@@ -32,6 +32,9 @@ struct Ivan : Man, Student, Developer {
     }
 };
 ```
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMurzin&layout=compact&theme=material-palenight&card_width=665" />
+</a>
 
 
 ---
