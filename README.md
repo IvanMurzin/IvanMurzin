@@ -9,7 +9,7 @@
 <p>
 <a href="https://vk.com/ivanmurzin813"><img src="https://visualpharm.com/assets/748/Vk.com-595b40b65ba036ed117d4639.svg" width="50" height="50" /></a>
 <a href="https://t.me/IvanMurzin813"><img src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-512.png" width="50" height="50"/></a>
-<a href="https://twitter.com/Gooose813"><img src="https://i.pinimg.com/474x/c3/a6/da/c3a6da4c2e29fcf9d7225938d33c47fb.jpg" width="50" height="50" /></a>
+<a href="https://twitter.com/Gooose813"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="50" height="50" /></a>
 </p>
 
 
